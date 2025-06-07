@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CTSSem1.iml" filepath="$PROJECT_DIR$/CTSSem1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10Observer/Seminar10Observer.iml" filepath="$PROJECT_DIR$/Seminar10Observer/Seminar10Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10Strategy/Seminar10Strategy.iml" filepath="$PROJECT_DIR$/Seminar10Strategy/Seminar10Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar11ChainOfResponsibility/Seminar11ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/Seminar11ChainOfResponsibility/Seminar11ChainOfResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4Problema2/Seminar4Problema2.iml" filepath="$PROJECT_DIR$/Seminar4Problema2/Seminar4Problema2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5/Seminar5.iml" filepath="$PROJECT_DIR$/Seminar5/Seminar5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5BuilderV2/Seminar5BuilderV2.iml" filepath="$PROJECT_DIR$/Seminar5BuilderV2/Seminar5BuilderV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5FactoryMethod/Seminar5FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar5FactoryMethod/Seminar5FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar6Adapter/Seminar6Adapter.iml" filepath="$PROJECT_DIR$/Seminar6Adapter/Seminar6Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar6AdapterClase/Seminar6AdapterClase.iml" filepath="$PROJECT_DIR$/Seminar6AdapterClase/Seminar6AdapterClase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8Decorator/Seminar8Decorator.iml" filepath="$PROJECT_DIR$/Seminar8Decorator/Seminar8Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8Facade/Seminar8Facade.iml" filepath="$PROJECT_DIR$/Seminar8Facade/Seminar8Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8Proxy/Seminar8Proxy.iml" filepath="$PROJECT_DIR$/Seminar8Proxy/Seminar8Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar9Composite/Seminar9Composite.iml" filepath="$PROJECT_DIR$/Seminar9Composite/Seminar9Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar9Flyweight/Seminar9Flyweight.iml" filepath="$PROJECT_DIR$/Seminar9Flyweight/Seminar9Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar9Template/Seminar9Template.iml" filepath="$PROJECT_DIR$/Seminar9Template/Seminar9Template.iml" />
+    </modules>
+  </component>
+</project>
